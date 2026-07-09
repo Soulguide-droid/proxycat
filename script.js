@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Каждая ссылка должна быть в кавычках и через запятую.
     // Если строка пустая или содержит пробелы, она проигнорируется.
     const proxyLinks = [
-"tg://proxy?server=tg.soika.site.mtproto.icu&port=443&secret=ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465",
+    "tg://proxy?server=tg.soika.site.mtproto.icu&port=443&secret=ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465",
 "tg://proxy?server=tg.soika.site&port=443&secret=ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465",
 "tg://proxy?server=proxy.vmelectronics.ru&port=443&secret=ee6164732e78352e72759c6509729477",
 "tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f685d0b7d0ba70726f78792e6c6f646b69726d6d2e7275",
@@ -103,6 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 "tg://proxy?server=gta5.vkmtp.pro&port=853&secret=dd616cf892574b078aab3f73e63b8b7df4",
 "tg://proxy?server=185.86.146.98&port=443&secret=2f22523a9fdd8fa67e391a31db65b614",
 "tg://proxy?server=fast.mtmajestic.space&port=443&secret=616cf892574b078aab3f73e63b8b7df4"
+        
     ];
     // ==========================================
 
