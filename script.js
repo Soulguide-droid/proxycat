@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 "tg://proxy?server=start5.vkmtp.pro&port=443&secret=dd616cf892574b078aab3f73e63b8b7df4",
 "tg://proxy?server=gta5.vkmtp.pro&port=853&secret=dd616cf892574b078aab3f73e63b8b7df4",
 "tg://proxy?server=185.86.146.98&port=443&secret=2f22523a9fdd8fa67e391a31db65b614",
-"tg://proxy?server=fast.mtmajestic.space&port=443&secret=616cf892574b078aab3f73e63b8b7df4"
+"tg://proxy?server=fast.mtmajestic.space&port=443&secret=616cf892574b078aab3f73e63b8b7df4",
     ];
     // ==========================================
 
